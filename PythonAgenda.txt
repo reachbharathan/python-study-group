@@ -1,0 +1,73 @@
+Level 1: Python Introduction - Best
+https://www.udacity.com/course/introduction-to-python--ud1110
+Syntax 
+Basic functionalities 
+
+Level 2: Getting started with git - These two course are free as of now
+https://www.udemy.com/course/the-ultimate-git-5-day-challenge
+https://www.udemy.com/course/git-started-with-github/
+
+
+Level 3: Python advance level - This includes a lot third level
+https://www.udemy.com/course/complete-python-developer-zero-to-mastery/
+
+
+Goal :
+* Programming
+  Backend - Needs to be covered
+  Frontend - Needs to be covered
+    * Python
+    * HTML
+    * Javascript
+    * SQL
+
+* Web development
+    * Server hosting
+    * domain
+
+* Machine learning
+    * next goal 
+
+28 Mar Home Work
+  Programming language
+    All scripting language are  also Programming language - Yes
+    Compiler - Java, Python, Scala, C, C++
+    Structured - 
+
+    Machine code <- Programming - various types 
+
+  Scripting language
+    Interperter
+    Supports
+
+  python programming language or scrpting language
+    Programming language
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  https://thepythonguru.com/is-python-a-programming-language-or-scripting-language/
+  
+  why tuple in python 
+  https://www.quora.com/Why-do-I-need-tuples-in-Python-What-is-a-programming-use-case-in-which-tuples-are-useful?share=1
+
+  Machine learning vs Artificial Intelligence vs Data Science
+  
+Typing - 
+Visual code tutorial for python - Able to execute and debug.
+
+

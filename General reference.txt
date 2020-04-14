@@ -1,0 +1,23 @@
+General reference
+
+Documented learning
+https://www.learnpython.org
+
+Editor 
+https://code.visualstudio.com/docs/?dv=win64user for windows 
+
+vs code tutorial 
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/python/python-tutorial
+
+Python extension for VS code 
+https://github.com/Microsoft/vscode-python
+
+ConEmu alternative for bash
+https://conemu.github.io/
+
+Python Module documentation
+
+Git Branching
+https://www.atlassian.com/git/tutorials/using-branches
+Python extension for VS code 

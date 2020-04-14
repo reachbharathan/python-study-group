@@ -1,0 +1,10 @@
+Version control is needed for project manage
+
+Different types version control 
+  Mercurial
+  Subversion
+  Git - 90% 
+
+Cloud server
+  - Each user each user will have his own local server
+  - each user can update his local repository(Folder)

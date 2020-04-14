@@ -1,0 +1,27 @@
+Let learn and Share 
+
+Perday Commitment 8 Hours - 
+2 hours of break
+  1 lunch
+  30 break 
+  30 break 
+
+6 hours -> Effective 3 hours
+Assumption is 6 hours of learning 
+
+Tentative time to calculate
+Udacity course - can be completed in 3 days
+https://www.udacity.com/course/introduction-to-python--ud1110
+
+Tentative time to calculate
+git course - can be completed in 2 days
+https://www.udemy.com/course/the-ultimate-git-5-day-challenge
+https://www.udemy.com/course/git-started-with-github/
+
+Daily Stand up
+Daily 5 pm update sync up - What to update
+Status update 
+Any Blockers
+Any new learning apart from the course
+
+

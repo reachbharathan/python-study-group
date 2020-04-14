@@ -1,0 +1,14 @@
+Bharath
+* All are classes in python 
+* if we create a object from a class, we can access the methods/fuctions 
+* Class is a group of functions
+* there are pre-built classes in python, 
+* we can define classes by ourself
+
+* Classes are similar to funcations 
+* we can access from objects
+
+* Classes are used to create object from the template
+* objects have variable and funcations
+
+
