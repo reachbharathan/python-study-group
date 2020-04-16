@@ -1,0 +1,6 @@
+Benefits of unit test
+* to validate a class or a function
+* indentify error
+* to validate error is thrown where ever necessary
+* to validate the performance
+* to validate the requirement
