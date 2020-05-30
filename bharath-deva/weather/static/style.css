@@ -1,0 +1,5 @@
+body{
+    background-image: url("./weather.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
