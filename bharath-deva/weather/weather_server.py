@@ -32,8 +32,9 @@ def home():
         data = request.form.to_dict()["country"]
         print("country:", data)
         country_list = get_country_list(data)
-        return render_template('weather_home.html', country_list=country_list)
-    return render_template('weather_home.html')
+        print(country_list)
+        return render_template('weather_home.html', country_list=country_list,length = len(country_list))
+    return render_template('weather_home.html', country_list=country_list, length = len(country_list))
 
 
 @app.route('/submit_form/<string:country>', methods=['POST', 'GET'])

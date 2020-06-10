@@ -1,5 +1,19 @@
-body{
-    background-image: url("./weather.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
+.wrapper {
+  width: 50%;
+  background-image: url("background-clouds.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  text-align: center;
+  margin-top: 10%;
+  border: 2px solid black;
+}
+
+.country_list {
+  display: flex;
+  justify-content: center;
+}
+
+.country_list div {
+  border: 2px solid black;
 }
